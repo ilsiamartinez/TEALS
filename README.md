@@ -1,1 +1,43 @@
 # TEALS
+
+This is my repo to Introduction to software technology!
+
+## Second Letter Header
+
+Three thing that we will talk about here are:
+1. The parts of git
+2. Phython for READMEs and 
+3. Styling with theme using HTML and CSS
+
+### Third Letter Header
+
+Some languages that we can discuss for programming 
+- CC++
+- Forton
+- Python
+- Julia
+
+#### Level 4
+This is for a class at [Towers HS](https://www.towershs.dekalb.k12.ga.us/)
+And we can insert images too! ![Towers HS logo](https://www.towershs.dekalb.k12.ga.us/sysimages/logo.png) 
+##### Level 5
+We can add text blocks to our page based on language
+
+
+
+
+for 1 in np.arange(10):
+    print(1)
+  ***
+
+
+
+***bash
+#1/bin/bask
+
+
+
+
+###### Level 6
+
+<H1>HTML Level 1 Header</H1>
