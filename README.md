@@ -24,20 +24,25 @@ And we can insert images too! ![Towers HS logo](https://www.towershs.dekalb.k12.
 We can add text blocks to our page based on language
 
 
-
+Input mostly as 
 
 for 1 in np.arange(10):
     print(1)
-  ***
-
-
-
-***bash
-#1/bin/bask
-
-
-
-
-###### Level 6
-
-<H1>HTML Level 1 Header</H1>
+  '''
+  
+  '''bash
+  #1/bin/bash
+  
+  echo hello
+  '''
+  
+  ###### Level 6
+  
+  Adding Tables is also pretty "easy"
+  |Column 1|Column 2|
+  |--------|--------|
+  |Row 1|Value 1|
+  |Row 2|Value 2|
+  |Row 3|Value 3|
+  
+  <H1>HTML Level 1 Header</H1>
