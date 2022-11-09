@@ -1,4 +1,5 @@
 # TEALS
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ilsiamartinez/TEALS/HEAD)
 
 This is my repo to Introduction to software technology!
 
