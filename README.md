@@ -29,13 +29,13 @@ Input mostly as
 
 for 1 in np.arange(10):
     print(1)
-  '''
+  ***
   
-  '''bash
+  ***bash
   #1/bin/bash
   
   echo hello
-  '''
+  ***
   
   ###### Level 6
   
